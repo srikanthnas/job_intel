@@ -1,0 +1,144 @@
+.predictor-page {
+    min-height: 100vh;
+    background: #f4f7fb;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.predictor-card {
+    width: 100%;
+    max-width: 900px;
+    background: white;
+    border-radius: 20px;
+    padding: 35px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.08);
+}
+
+.predictor-card h1 {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 0;
+    color: #111827;
+    font-size: 32px;
+}
+
+.predictor-card p {
+    margin-top: 10px;
+    color: #6b7280;
+    margin-bottom: 30px;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 22px;
+}
+
+.form-grid div {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-grid label {
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #374151;
+}
+
+.form-grid input,
+.form-grid select {
+    padding: 12px 14px;
+    border: 1px solid #d1d5db;
+    border-radius: 10px;
+    font-size: 15px;
+    outline: none;
+    transition: 0.2s;
+    background: white;
+    color: #111827;
+}
+
+.form-grid input:focus,
+.form-grid select:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 3px rgba(37,99,235,.15);
+}
+
+.predict-btn {
+    margin-top: 30px;
+    width: 100%;
+    padding: 16px;
+    border: none;
+    border-radius: 12px;
+    background: #2563eb;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    transition: 0.25s;
+}
+
+.predict-btn:hover {
+    background: #1d4ed8;
+    transform: translateY(-2px);
+}
+
+.predict-btn:disabled {
+    background: #93c5fd;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.salary-result {
+    margin-top: 35px;
+    padding: 30px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, #2563eb, #3b82f6);
+    color: white;
+    text-align: center;
+}
+
+.salary-result h3 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.salary-result h2 {
+    margin-top: 12px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+@media (max-width: 768px) {
+    .predictor-page {
+        padding: 20px;
+    }
+
+    .predictor-card {
+        padding: 25px;
+    }
+
+    .form-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .predictor-card h1 {
+        font-size: 26px;
+    }
+
+    .salary-result h2 {
+        font-size: 32px;
+    }
+    .form-grid option {
+    color: #111827;
+    background: white;
+}
+}

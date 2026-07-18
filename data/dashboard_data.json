@@ -1,0 +1,727 @@
+{
+  "kpis": {
+    "total_postings": 25000,
+    "avg_salary": 1279881,
+    "unique_companies": 28,
+    "unique_cities": 10,
+    "unique_roles": 14,
+    "remote_pct": 14.9
+  },
+  "top_skills": [
+    {
+      "skill": "SQL",
+      "count": 10523
+    },
+    {
+      "skill": "Python",
+      "count": 10306
+    },
+    {
+      "skill": "Docker",
+      "count": 6816
+    },
+    {
+      "skill": "AWS",
+      "count": 6186
+    },
+    {
+      "skill": "Power BI",
+      "count": 4660
+    },
+    {
+      "skill": "Tableau",
+      "count": 4645
+    },
+    {
+      "skill": "React",
+      "count": 3669
+    },
+    {
+      "skill": "Pandas",
+      "count": 3457
+    },
+    {
+      "skill": "JavaScript",
+      "count": 3433
+    },
+    {
+      "skill": "Statistics",
+      "count": 3384
+    },
+    {
+      "skill": "MongoDB",
+      "count": 3260
+    },
+    {
+      "skill": "Node.js",
+      "count": 3240
+    },
+    {
+      "skill": "Kubernetes",
+      "count": 3218
+    },
+    {
+      "skill": "REST API",
+      "count": 3215
+    },
+    {
+      "skill": "PyTorch",
+      "count": 3049
+    },
+    {
+      "skill": "Excel",
+      "count": 3042
+    },
+    {
+      "skill": "Azure",
+      "count": 2753
+    },
+    {
+      "skill": "Java",
+      "count": 2663
+    },
+    {
+      "skill": "Scikit-learn",
+      "count": 2649
+    },
+    {
+      "skill": "TensorFlow",
+      "count": 2401
+    }
+  ],
+  "skill_trends": [
+    {
+      "skill": "JavaScript",
+      "total_postings": 3433,
+      "first_half": 964,
+      "second_half": 2469,
+      "pct_change": 156.1,
+      "avg_salary": 1084000.0
+    },
+    {
+      "skill": "React",
+      "total_postings": 3669,
+      "first_half": 1049,
+      "second_half": 2620,
+      "pct_change": 149.8,
+      "avg_salary": 1084000.0
+    },
+    {
+      "skill": "Kubernetes",
+      "total_postings": 3218,
+      "first_half": 928,
+      "second_half": 2290,
+      "pct_change": 146.8,
+      "avg_salary": 1613000.0
+    },
+    {
+      "skill": "Power BI",
+      "total_postings": 4660,
+      "first_half": 1344,
+      "second_half": 3316,
+      "pct_change": 146.7,
+      "avg_salary": 1076000.0
+    },
+    {
+      "skill": "Python",
+      "total_postings": 10306,
+      "first_half": 2992,
+      "second_half": 7314,
+      "pct_change": 144.5,
+      "avg_salary": 1248000.0
+    },
+    {
+      "skill": "AWS",
+      "total_postings": 6186,
+      "first_half": 1806,
+      "second_half": 4380,
+      "pct_change": 142.5,
+      "avg_salary": 1458000.0
+    },
+    {
+      "skill": "Docker",
+      "total_postings": 6816,
+      "first_half": 1990,
+      "second_half": 4826,
+      "pct_change": 142.5,
+      "avg_salary": 1350000.0
+    },
+    {
+      "skill": "Statistics",
+      "total_postings": 3384,
+      "first_half": 988,
+      "second_half": 2396,
+      "pct_change": 142.5,
+      "avg_salary": 1125000.0
+    },
+    {
+      "skill": "Tableau",
+      "total_postings": 4645,
+      "first_half": 1357,
+      "second_half": 3288,
+      "pct_change": 142.3,
+      "avg_salary": 1075000.0
+    },
+    {
+      "skill": "REST API",
+      "total_postings": 3215,
+      "first_half": 948,
+      "second_half": 2267,
+      "pct_change": 139.1,
+      "avg_salary": 1131000.0
+    },
+    {
+      "skill": "SQL",
+      "total_postings": 10523,
+      "first_half": 3105,
+      "second_half": 7418,
+      "pct_change": 138.9,
+      "avg_salary": 1258000.0
+    },
+    {
+      "skill": "MongoDB",
+      "total_postings": 3260,
+      "first_half": 967,
+      "second_half": 2293,
+      "pct_change": 137.1,
+      "avg_salary": 1138000.0
+    },
+    {
+      "skill": "PyTorch",
+      "total_postings": 3049,
+      "first_half": 909,
+      "second_half": 2140,
+      "pct_change": 135.4,
+      "avg_salary": 1646000.0
+    },
+    {
+      "skill": "Pandas",
+      "total_postings": 3457,
+      "first_half": 1037,
+      "second_half": 2420,
+      "pct_change": 133.4,
+      "avg_salary": 1127000.0
+    },
+    {
+      "skill": "Node.js",
+      "total_postings": 3240,
+      "first_half": 997,
+      "second_half": 2243,
+      "pct_change": 125.0,
+      "avg_salary": 1134000.0
+    }
+  ],
+  "monthly_demand": [
+    {
+      "month": "2024-06",
+      "postings": 115
+    },
+    {
+      "month": "2024-07",
+      "postings": 287
+    },
+    {
+      "month": "2024-08",
+      "postings": 455
+    },
+    {
+      "month": "2024-09",
+      "postings": 640
+    },
+    {
+      "month": "2024-10",
+      "postings": 842
+    },
+    {
+      "month": "2024-11",
+      "postings": 977
+    },
+    {
+      "month": "2024-12",
+      "postings": 1241
+    },
+    {
+      "month": "2025-01",
+      "postings": 1404
+    },
+    {
+      "month": "2025-02",
+      "postings": 1357
+    },
+    {
+      "month": "2025-03",
+      "postings": 1614
+    },
+    {
+      "month": "2025-04",
+      "postings": 1756
+    },
+    {
+      "month": "2025-05",
+      "postings": 1891
+    },
+    {
+      "month": "2025-06",
+      "postings": 1857
+    },
+    {
+      "month": "2025-07",
+      "postings": 1928
+    },
+    {
+      "month": "2025-08",
+      "postings": 2012
+    },
+    {
+      "month": "2025-09",
+      "postings": 1922
+    },
+    {
+      "month": "2025-10",
+      "postings": 1831
+    },
+    {
+      "month": "2025-11",
+      "postings": 1649
+    },
+    {
+      "month": "2025-12",
+      "postings": 1222
+    }
+  ],
+  "city_stats": [
+    {
+      "location": "Bengaluru",
+      "postings": 5135,
+      "avg_salary": 1460000.0
+    },
+    {
+      "location": "Hyderabad",
+      "postings": 3007,
+      "avg_salary": 1266000.0
+    },
+    {
+      "location": "Mumbai",
+      "postings": 2866,
+      "avg_salary": 1401000.0
+    },
+    {
+      "location": "Delhi NCR",
+      "postings": 2739,
+      "avg_salary": 1337000.0
+    },
+    {
+      "location": "Pune",
+      "postings": 2703,
+      "avg_salary": 1235000.0
+    },
+    {
+      "location": "Remote",
+      "postings": 2364,
+      "avg_salary": 1293000.0
+    },
+    {
+      "location": "Chennai",
+      "postings": 1949,
+      "avg_salary": 1191000.0
+    },
+    {
+      "location": "Kolkata",
+      "postings": 1685,
+      "avg_salary": 1000000.0
+    },
+    {
+      "location": "Ahmedabad",
+      "postings": 1371,
+      "avg_salary": 1059000.0
+    },
+    {
+      "location": "Kochi",
+      "postings": 1181,
+      "avg_salary": 988000.0
+    }
+  ],
+  "company_stats": [
+    {
+      "company": "Postman",
+      "postings": 934,
+      "avg_salary": 1181000.0,
+      "rating": 4.2
+    },
+    {
+      "company": "Innovaccer",
+      "postings": 933,
+      "avg_salary": 1214000.0,
+      "rating": 3.8
+    },
+    {
+      "company": "Meesho",
+      "postings": 926,
+      "avg_salary": 1203000.0,
+      "rating": 3.9
+    },
+    {
+      "company": "Amazon India",
+      "postings": 924,
+      "avg_salary": 1289000.0,
+      "rating": 4.1
+    },
+    {
+      "company": "Infosys",
+      "postings": 915,
+      "avg_salary": 1315000.0,
+      "rating": 3.9
+    },
+    {
+      "company": "Darwinbox",
+      "postings": 910,
+      "avg_salary": 1203000.0,
+      "rating": 4.0
+    },
+    {
+      "company": "CRED",
+      "postings": 909,
+      "avg_salary": 1147000.0,
+      "rating": 4.0
+    },
+    {
+      "company": "Accenture",
+      "postings": 906,
+      "avg_salary": 1256000.0,
+      "rating": 4.0
+    },
+    {
+      "company": "PhonePe",
+      "postings": 898,
+      "avg_salary": 1382000.0,
+      "rating": 4.1
+    },
+    {
+      "company": "Flipkart",
+      "postings": 897,
+      "avg_salary": 1388000.0,
+      "rating": 4.1
+    },
+    {
+      "company": "Microsoft India",
+      "postings": 897,
+      "avg_salary": 1248000.0,
+      "rating": 4.4
+    },
+    {
+      "company": "Zoho",
+      "postings": 896,
+      "avg_salary": 1367000.0,
+      "rating": 4.3
+    }
+  ],
+  "role_stats": [
+    {
+      "role": "Data Scientist",
+      "postings": 3197,
+      "avg_salary": 1419000.0,
+      "avg_min_exp": 2.9
+    },
+    {
+      "role": "Data Analyst",
+      "postings": 2676,
+      "avg_salary": 859000.0,
+      "avg_min_exp": 2.8
+    },
+    {
+      "role": "Full Stack Developer",
+      "postings": 2611,
+      "avg_salary": 1170000.0,
+      "avg_min_exp": 2.9
+    },
+    {
+      "role": "Backend Developer",
+      "postings": 2335,
+      "avg_salary": 1097000.0,
+      "avg_min_exp": 2.9
+    },
+    {
+      "role": "Frontend Developer",
+      "postings": 2145,
+      "avg_salary": 1000000.0,
+      "avg_min_exp": 2.7
+    },
+    {
+      "role": "ML Engineer",
+      "postings": 2019,
+      "avg_salary": 1734000.0,
+      "avg_min_exp": 2.8
+    },
+    {
+      "role": "Data Engineer",
+      "postings": 1761,
+      "avg_salary": 1492000.0,
+      "avg_min_exp": 2.9
+    },
+    {
+      "role": "Business Analyst",
+      "postings": 1518,
+      "avg_salary": 943000.0,
+      "avg_min_exp": 2.9
+    },
+    {
+      "role": "QA Engineer",
+      "postings": 1513,
+      "avg_salary": 864000.0,
+      "avg_min_exp": 3.0
+    },
+    {
+      "role": "DevOps Engineer",
+      "postings": 1452,
+      "avg_salary": 1498000.0,
+      "avg_min_exp": 2.9
+    },
+    {
+      "role": "Cloud Engineer",
+      "postings": 1144,
+      "avg_salary": 1572000.0,
+      "avg_min_exp": 3.0
+    },
+    {
+      "role": "Product Manager",
+      "postings": 948,
+      "avg_salary": 2042000.0,
+      "avg_min_exp": 2.9
+    },
+    {
+      "role": "UI/UX Designer",
+      "postings": 923,
+      "avg_salary": 1007000.0,
+      "avg_min_exp": 2.8
+    },
+    {
+      "role": "AI Research Engineer",
+      "postings": 758,
+      "avg_salary": 2236000.0,
+      "avg_min_exp": 2.9
+    }
+  ],
+  "exp_salary": [
+    {
+      "min_experience": 0,
+      "avg_salary": 936000.0
+    },
+    {
+      "min_experience": 1,
+      "avg_salary": 1047000.0
+    },
+    {
+      "min_experience": 2,
+      "avg_salary": 1167000.0
+    },
+    {
+      "min_experience": 3,
+      "avg_salary": 1286000.0
+    },
+    {
+      "min_experience": 5,
+      "avg_salary": 1556000.0
+    },
+    {
+      "min_experience": 7,
+      "avg_salary": 1763000.0
+    },
+    {
+      "min_experience": 10,
+      "avg_salary": 2153000.0
+    }
+  ],
+  "forecast": [
+    {
+      "skill": "SQL",
+      "next_3_months_projection": [
+        961,
+        998,
+        1035
+      ],
+      "trend_slope": 37.03
+    },
+    {
+      "skill": "Python",
+      "next_3_months_projection": [
+        947,
+        984,
+        1021
+      ],
+      "trend_slope": 36.8
+    },
+    {
+      "skill": "Docker",
+      "next_3_months_projection": [
+        624,
+        648,
+        672
+      ],
+      "trend_slope": 24.1
+    },
+    {
+      "skill": "AWS",
+      "next_3_months_projection": [
+        569,
+        591,
+        613
+      ],
+      "trend_slope": 22.12
+    },
+    {
+      "skill": "Power BI",
+      "next_3_months_projection": [
+        433,
+        450,
+        467
+      ],
+      "trend_slope": 17.05
+    },
+    {
+      "skill": "Tableau",
+      "next_3_months_projection": [
+        427,
+        444,
+        460
+      ],
+      "trend_slope": 16.59
+    },
+    {
+      "skill": "React",
+      "next_3_months_projection": [
+        340,
+        353,
+        366
+      ],
+      "trend_slope": 13.32
+    },
+    {
+      "skill": "Pandas",
+      "next_3_months_projection": [
+        310,
+        322,
+        333
+      ],
+      "trend_slope": 11.65
+    },
+    {
+      "skill": "JavaScript",
+      "next_3_months_projection": [
+        322,
+        334,
+        347
+      ],
+      "trend_slope": 12.82
+    },
+    {
+      "skill": "Statistics",
+      "next_3_months_projection": [
+        313,
+        325,
+        337
+      ],
+      "trend_slope": 12.25
+    }
+  ],
+  "model_metrics": {
+    "best_model": "GradientBoosting",
+    "results": {
+      "RandomForest": {
+        "MAE": 152509.74,
+        "RMSE": 205292.16,
+        "R2": 0.8506
+      },
+      "GradientBoosting": {
+        "MAE": 130798.49,
+        "RMSE": 177978.47,
+        "R2": 0.8877
+      }
+    },
+    "top_features": [
+      {
+        "feature": "min_experience",
+        "importance": 0.372230569601346
+      },
+      {
+        "feature": "role_AI Research Engineer",
+        "importance": 0.1085017315469116
+      },
+      {
+        "feature": "role_Product Manager",
+        "importance": 0.0990418662759622
+      },
+      {
+        "feature": "role_ML Engineer",
+        "importance": 0.0919146822865447
+      },
+      {
+        "feature": "role_Data Analyst",
+        "importance": 0.041105752826719105
+      },
+      {
+        "feature": "location_Bengaluru",
+        "importance": 0.03399284758345527
+      },
+      {
+        "feature": "role_QA Engineer",
+        "importance": 0.02840635390288036
+      },
+      {
+        "feature": "role_Business Analyst",
+        "importance": 0.01669772338982463
+      },
+      {
+        "feature": "company_size_Large",
+        "importance": 0.01662549831182142
+      },
+      {
+        "feature": "role_Full Stack Developer",
+        "importance": 0.016188107981514904
+      },
+      {
+        "feature": "role_Frontend Developer",
+        "importance": 0.015512484243127574
+      },
+      {
+        "feature": "role_UI/UX Designer",
+        "importance": 0.014032237547877247
+      },
+      {
+        "feature": "role_Backend Developer",
+        "importance": 0.013392252214404599
+      },
+      {
+        "feature": "location_Kolkata",
+        "importance": 0.01313258486172459
+      },
+      {
+        "feature": "role_Data Engineer",
+        "importance": 0.012208140588330894
+      }
+    ],
+    "train_size": 20000,
+    "test_size": 5000
+  },
+  "skill_gap_demo": {
+    "target_role": "Data Scientist",
+    "matched_skills": [
+      "Machine Learning",
+      "Pandas",
+      "Power BI",
+      "Python",
+      "SQL",
+      "Scikit-learn",
+      "Statistics"
+    ],
+    "missing_skills": [
+      "A/B Testing",
+      "Deep Learning",
+      "PyTorch",
+      "Tableau",
+      "TensorFlow"
+    ],
+    "skill_score": 58.3,
+    "semantic_fit_score": 41.5,
+    "confidence": 51.6
+  }
+}

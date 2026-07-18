@@ -1,0 +1,79 @@
+{
+  "best_model": "GradientBoosting",
+  "results": {
+    "RandomForest": {
+      "MAE": 152509.74,
+      "RMSE": 205292.16,
+      "R2": 0.8506
+    },
+    "GradientBoosting": {
+      "MAE": 130798.49,
+      "RMSE": 177978.47,
+      "R2": 0.8877
+    }
+  },
+  "top_features": [
+    {
+      "feature": "min_experience",
+      "importance": 0.372230569601346
+    },
+    {
+      "feature": "role_AI Research Engineer",
+      "importance": 0.1085017315469116
+    },
+    {
+      "feature": "role_Product Manager",
+      "importance": 0.0990418662759622
+    },
+    {
+      "feature": "role_ML Engineer",
+      "importance": 0.0919146822865447
+    },
+    {
+      "feature": "role_Data Analyst",
+      "importance": 0.041105752826719105
+    },
+    {
+      "feature": "location_Bengaluru",
+      "importance": 0.03399284758345527
+    },
+    {
+      "feature": "role_QA Engineer",
+      "importance": 0.02840635390288036
+    },
+    {
+      "feature": "role_Business Analyst",
+      "importance": 0.01669772338982463
+    },
+    {
+      "feature": "company_size_Large",
+      "importance": 0.01662549831182142
+    },
+    {
+      "feature": "role_Full Stack Developer",
+      "importance": 0.016188107981514904
+    },
+    {
+      "feature": "role_Frontend Developer",
+      "importance": 0.015512484243127574
+    },
+    {
+      "feature": "role_UI/UX Designer",
+      "importance": 0.014032237547877247
+    },
+    {
+      "feature": "role_Backend Developer",
+      "importance": 0.013392252214404599
+    },
+    {
+      "feature": "location_Kolkata",
+      "importance": 0.01313258486172459
+    },
+    {
+      "feature": "role_Data Engineer",
+      "importance": 0.012208140588330894
+    }
+  ],
+  "train_size": 20000,
+  "test_size": 5000
+}
