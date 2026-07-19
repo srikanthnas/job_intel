@@ -1,4 +1,8 @@
-# AI-Powered Job Market Intelligence Dashboard
+# AI Job Market Intelligence Dashboard
+
+🌐 **Live Demo:** https://job-intel-ten.vercel.app
+
+💻 **GitHub Repository:** https://github.com/srikanthnas/job_intel
 
 An end-to-end data science and full-stack analytics platform that analyzes job market trends, predicts salaries, identifies skill gaps in resumes, and helps users search for relevant jobs through an interactive dashboard.
 
