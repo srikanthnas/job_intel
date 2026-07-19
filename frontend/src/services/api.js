@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "http://127.0.0.1:5000/api"
+  baseURL: "https://job-intel-backend-m7bp.onrender.com/api",
 });
 
 export default api;
