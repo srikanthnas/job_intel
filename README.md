@@ -48,7 +48,21 @@ job_intel/
 
 ## Screenshots
 
-Screenshots will be added soon.
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Salary Predictor
+
+![Salary Predictor](screenshots/salary_predictor.png)
+
+### Skill Gap Analyzer
+
+![Skill Gap Analyzer](screenshots/skill_gap.png)
+
+### Job Search
+
+![Job Search](screenshots/job_search.png)
 
 ## Installation
 
