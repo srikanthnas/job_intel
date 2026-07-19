@@ -50,19 +50,21 @@ job_intel/
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard1.png)
+
+![Dashboard](screenshots/Dashboard2.png)
 
 ### Salary Predictor
 
-![Salary Predictor](screenshots/salary_predictor.png)
+![Salary Predictor](screenshots/SalaryPredictor.png)
 
 ### Skill Gap Analyzer
 
-![Skill Gap Analyzer](screenshots/skill_gap.png)
+![Skill Gap Analyzer](screenshots/SkillGapAnalyser.png)
 
 ### Job Search
 
-![Job Search](screenshots/job_search.png)
+![Job Search](screenshots/JobSearch.png)
 
 ## Installation
 
