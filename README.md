@@ -39,6 +39,30 @@ An end-to-end data science and full-stack analytics platform that analyzes job m
 - TF-IDF Vectorizer
 - Cosine Similarity
 
+## System Architecture
+
+```mermaid
+flowchart LR
+
+A[React + Vite Frontend] -->|REST API| B[Flask Backend]
+
+B --> C[Salary Prediction Model]
+
+B --> D[Skill Gap Analysis]
+
+B --> E[Job Search Engine]
+
+B --> F[Analytics Engine]
+
+F --> G[25,000+ Job Dataset]
+
+C --> G
+
+D --> G
+
+E --> G
+```
+
 ## Project Structure
 
 ```
