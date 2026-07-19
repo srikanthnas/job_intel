@@ -62,6 +62,20 @@ D --> G
 
 E --> G
 ```
+## API Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | `/api/kpis` | Fetch dashboard KPI metrics |
+| GET | `/api/trends/monthly` | Monthly hiring trends |
+| GET | `/api/skills/forecast` | Skill demand forecasting |
+| GET | `/api/cities` | City-wise job analysis |
+| GET | `/api/companies` | Company-wise job analysis |
+| GET | `/api/roles` | Role-wise analysis |
+| GET | `/api/experience` | Experience distribution |
+| POST | `/api/salary/predict` | Predict salary based on user inputs |
+| POST | `/api/skill-gap/upload` | Analyze resume and identify missing skills |
+| GET | `/api/jobs/search` | Search job postings |
 
 ## Project Structure
 
