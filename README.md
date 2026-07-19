@@ -1,5 +1,13 @@
 # AI Job Market Intelligence Dashboard
 
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![Flask](https://img.shields.io/badge/Flask-3.1-black?logo=flask)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)
+![Render](https://img.shields.io/badge/Backend-Render-46E3B7?logo=render)
+
 🌐 **Live Demo:** https://job-intel-ten.vercel.app
 
 💻 **GitHub Repository:** https://github.com/srikanthnas/job_intel
@@ -77,6 +85,16 @@ E --> G
 | POST | `/api/skill-gap/upload` | Analyze resume and identify missing skills |
 | GET | `/api/jobs/search` | Search job postings |
 
+## Project Highlights
+
+- 📊 Analysed **25,000+ job postings**
+- 🤖 Machine Learning salary prediction model
+- 📄 AI-powered resume skill gap analysis
+- 🔍 Smart job search with filters
+- 📈 Interactive hiring trend dashboards
+- 🌍 City, company and role-based analytics
+- 🚀 Fully deployed using Vercel and Render
+
 ## Project Structure
 
 ```
@@ -107,6 +125,49 @@ job_intel/
 ### Job Search
 
 ![Job Search](screenshots/JobSearch.png)
+
+## Project Structure
+
+```text
+job_intel/
+│
+├── backend/
+│   ├── app.py
+│   ├── routes/
+│   ├── services/
+│   ├── models/
+│   └── requirements.txt
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── screenshots/
+└── README.md
+```
+
+## Deployment
+
+Frontend: **Vercel**
+
+Backend: **Render**
+
+Live Demo:
+https://job-intel-ten.vercel.app
+
+## Future Enhancements
+
+- User authentication
+- Bookmark and save jobs
+- Real-time job scraping
+- AI-powered resume recommendations
+- Advanced salary forecasting
+- Docker support
+
+## License
+
+This project is licensed under the MIT License.
 
 ## Installation
 
