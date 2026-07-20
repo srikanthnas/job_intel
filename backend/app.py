@@ -33,6 +33,13 @@ BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/health", methods=["GET"])
+def health():
+    return {
+        "status": "OK",
+        "message": "Job Intel API is running"
+    }, 200
+
 df = pd.read_csv(os.path.join(BASE, "data", "job_postings.csv"), parse_dates=["date_posted"])
 df["avg_salary"] = (df.salary_min + df.salary_max) / 2
 
